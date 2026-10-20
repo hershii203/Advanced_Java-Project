@@ -1,7 +1,0 @@
-target/
-.idea/
-.vscode/
-*.class
-*.log
-
-src/main/webapp/images/*_files/
