@@ -45,5 +45,5 @@ These experiments and the ShopSphere project provide practical experience in Jav
 
 ---
 
-Maintained by: Gazal Saini  
+Maintained by: Harshita choudharu  
 Purpose: Academic Lab Work and Project Submission
