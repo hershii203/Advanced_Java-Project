@@ -1,7 +1,7 @@
 # Java Lab Experiments and Project
 
 ## Student Information
-- Name: Gazal Saini
+- Name: Harshita Choudhary
 - Course: B.Tech – Computer Science and Engineering
 - Semester: 5th Semester
 
