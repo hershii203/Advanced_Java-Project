@@ -2,7 +2,7 @@
 
 ## Student Information
 - Name: Harshita Choudhary
-- Course: B.Tech – Computer Science and Engineering
+- Course: B.Tech – Information Technology
 - Semester: 5th Semester
 
 ## About This Repository
